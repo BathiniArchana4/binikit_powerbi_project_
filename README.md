@@ -1,4 +1,4 @@
-##### Blinkit Sales Data Analysis Dashboard (Power BI) #####
+# Blinkit Sales Data Analysis Dashboard (Power BI) #
 
 ## 🛒 Project Overview ##
 This Power BI dashboard provides an in-depth analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The project transforms raw e-commerce grocery data into actionable insights, helping management make data-driven decisions to optimize operations and enhance customer experience. 
